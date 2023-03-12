@@ -7,8 +7,8 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://ameer00.github.io/",
-  base: "aadev777/astro-paper",
+  site: "https://aadev777.github.io/",
+  base: "astro-paper",
   integrations: [
     tailwind({
       config: {
